@@ -7,7 +7,7 @@ development experience you have. The use of Internet or external libraries such 
 Develop a small fullscreen grid, which can be used to paint simple images. The grid consists of small square cells.
 There should be 100 cells horizontally. And with no scrollbars.
 
-![Screenshot](grid.jpg)
+![Screenshot](grid.JPG)
 
 Whenever a cell is clicked, the cell should be "activated" by changing color.
 When the cell is clicked again, the cell is deactivated and the color is removed.
@@ -21,4 +21,4 @@ mouse
 • The color picker disappears (fadeOut) when the mouse moves outside the color picker or when a
 color is pressed
 
-![Screenshot](grid2.jpg)
+![Screenshot](grid2.JPG)
