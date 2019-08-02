@@ -11,8 +11,8 @@ Whenever a cell is clicked with the right mouse button, a popup should appear wh
 color. A minimum of 5 colors is required. The chosen color becomes the default color for each cell while
 drawing.
 * The color picker appears (fadeIn) when you press the right mouse button at the position of the
-mouse
-* The browser specific context menu is not shown when pressing the right mouse button
+mouse.
+* The browser specific context menu is not shown when pressing the right mouse button.
 * The color picker disappears (fadeOut) when the mouse moves outside the color picker or when a
 color is pressed.
 
