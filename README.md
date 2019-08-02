@@ -1,5 +1,5 @@
 # HTML/CSS/JS
-Develop a small fullscreen grid, which can be used to paint simple images. The grid consists of small square cells.
+Develop a small fullscreen grid which can be used to paint simple images. The grid consists of small square cells.
 There should be 100 cells horizontally. And with no scrollbars.
 
 ![Screenshot](grid1.JPG)
