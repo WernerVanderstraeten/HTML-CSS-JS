@@ -2,7 +2,7 @@
 Develop a small fullscreen grid, which can be used to paint simple images. The grid consists of small square cells.
 There should be 100 cells horizontally. And with no scrollbars.
 
-![Screenshot](grid.JPG)
+![Screenshot](grid1.JPG)
 
 Whenever a cell is clicked, the cell should be "activated" by changing color.
 When the cell is clicked again, the cell is deactivated and the color is removed.
