@@ -1,7 +1,6 @@
 # HTML/CSS/JS
 ## 1.1 GOAL
-The goal of this assignment is to develop a small interactive web application, to find out what kind of web
-development experience you have. The use of Internet or external libraries such as jQuery is allowed.
+The goal of this assignment is to develop a small interactive web application.
 
 ## 1.2 ASSIGNMENT
 Develop a small fullscreen grid, which can be used to paint simple images. The grid consists of small square cells.
