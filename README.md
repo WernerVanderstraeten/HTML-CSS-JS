@@ -14,6 +14,6 @@ drawing.
 mouse
 • The browser specific context menu is not shown when pressing the right mouse button
 • The color picker disappears (fadeOut) when the mouse moves outside the color picker or when a
-color is pressed
+color is pressed.
 
 ![Screenshot](grid2.JPG)
